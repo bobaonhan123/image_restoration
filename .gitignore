@@ -2,3 +2,6 @@ venv/
 input_data/
 test_images/
 forestImage.zip
+debug_pieces/
+output_data/
+raw_data/
